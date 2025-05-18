@@ -1,0 +1,2557 @@
+CHAPTER
+
+7
+
+Writing Style
+
+CHAPTER GOALS
+
+Copyright © 2001 ASM International®
+
+All rights reserved.
+
+www.asminternational.org
+
+1. Understand the elements of style in technical writing
+
+2. Become familiar with the style that is most suitable for
+
+technical reports
+
+WRITING STYLErefers to mannerisms in word usage. It is the way that
+
+the writer consistently and unconsciously chooses words, forms sentences
+
+and paragraphs, and combines them with ideas and thoughts to create a doc
+
+ument. Style is all of the attributes described in “Criteria for Good Tech
+
+nical Writing,” Chapter 6, plus the product of the writer’s persona, per
+
+sonality, who he or she is and how they feel. A document is a composition
+
+that integrates the elements of style into a finished work (Fig. 7.1). Like a
+
+work of music, each composition is different because each person is dif
+
+ferent. The work is a summation of technical knowledge combined with in
+
+ner feelings and personal characteristics of the composer. This is the style
+
+of the composer, who does some things in certain ways most of the time.
+
+Style can be important because the audience (readers) may be influenced
+
+by it. Style is usually what sells in the marketplace. Continuing with the
+
+analogy of music composers, the great ones like Mozart, Vivaldi, and Han
+
+del each had a style that set them apart from the millions of other musicians
+
+who composed music. People like the styles of these composers, and the
+
+listeners have become comfortable with particular styles by listening to cer
+
+tain composers’ works for a very long time. Style makes a painter; style
+
+makes a singer. Everybody has access to the words and music of every pub
+
+lished song. What makes some singers’ renditions sell a million compact
+
+discs? It is his or her style—the words, combined with the notes, combined
+
+with the music, combined with the voice quality, combined with the voice
+
+inflections, combined with the tempo. It is the total composition that sells.
+
+108 / Engineers’ Guide to Technical Writing
+
+Fig. 7.1 Elements of style
+
+Technical writing by definition is done for a reason. There is a purpose
+
+and objective for every document. You want to achieve something by writ
+
+ing this document. Writing style will help determine success in achieving
+
+the goals of a document.
+
+The author of a document determines the style. It is the purpose of this
+
+Chapter to make the author aware of the factors that determine style so a
+
+writing style that is successful with readers and congruent with accepted
+
+technical writing practices can be developed. Chapter goals are addressed
+
+by discussing the elements of style and by giving examples of different
+
+writing styles. This Chapter then concludes with suggestions on develop
+
+ing a style that works in technical writing.
+
+7.1 Elements of Style
+
+Figure 7.1 is an attempt to illustrate the many things that make up style.
+
+Chapter 6, “Criteria for Good Technical Writing,” already discusses doc
+
+ument content, presentation, and language skills, but style starts earlier. It
+
+starts with writer choices of word usage, how words are put into sentences,
+
+how paragraphs are constructed, and then how they are presented to read
+
+ership in the final work. These early choices encompass a variety of ele
+
+ments shown in Fig. 7.2.
+
+Writing Style / 109
+
+Fig. 7.2 Style is manifested in choice of words, sentences, and paragraphs.
+
+Persona affects word choice and results in a particular style. If you are a
+
+gregarious person, you may be prone to use words like “bold, hearty, beau
+
+tiful.” An introverted person is likely to use words that do not draw atten
+
+tion to himself or herself. Words like “anticipate, therefore, follows” may
+
+be selected as a reflection of an introverted personality.
+
+Likewise, writing style has a tone, which is a reflection of writer attitude
+
+or feelings. If you are angry at your manager at the time of writing, this
+
+may show in your writing as snipping remarks or angry words.
+
+Angry Tone
+
+The project would have been completed as scheduled if we had management co
+
+operation.
+
+110 / Engineers’ Guide to Technical Writing
+
+Angry Words
+
+Noncommittal
+
+Procrastination
+
+Disappointing
+
+Uncooperative
+
+Unqualified
+
+Sloppy
+
+Nonconforming
+
+Malicious
+
+Shoddy
+
+Technical writing, by definition, should be objective and impersonal. The
+
+tone should be neutral. In other words, the tone should be dispassionate, im
+
+partial, and unbiased. Tone may be influenced by your feelings at the time
+
+of writing, how you feel about yourself, how you feel about your boss, com
+
+pany, mate, or health. Readers do not want to be distracted by these subjec
+
+tive connotations. If such a tone is evident, readers may question the objec
+
+tivity of a work. [I can personally attest to the importance of tone in writing.
+
+I had an unfortunate experience caused by my improper tone. Ten years ago,
+
+we built a new house. It turned into a disaster. Everything went wrong. Af
+
+ter we moved in, I vowed to write a book about our misadventure so that
+
+others could avoid our mistakes. I spent a year writing the book, House From
+
+Hell. Because nontechnical books are generally submitted to publishers
+
+through an agent, I submitted a book proposal to 140 literary agents. Only
+
+two agreed to read it; both turned me down as a client because of the tone
+
+of the writing. One called the book sardonic; the other called it nasty. I was
+
+still angry at the general contractor, the architect, the mason, the plasterer,
+
+and the plumber, and it showed in my writing. One agent said that I would
+
+frighten people out of building a custom-built house and nobody would buy
+
+the book. I completely rewrote the book, but it is still unpublished. Tone can
+
+definitely have a negative impact on writing style.]
+
+RULE
+
+Do not let personal feelings show in writing.
+
+Word Choice
+
+There are many types of words, and choice of words is a major part of
+
+writing style. The average person born in the United States knows about
+
+21,000 English (U.S. modified) words. [I was told this during a company
+
+psychological test on word knowledge.] It takes about 500 words to fill a
+
+single-spaced typed page. Technical documents can be less than one page
+
+Writing Style / 111
+
+or more than 100 pages. However, most technical journals limit submis
+
+sions to about ten pages or 5,000 words. The author must make a decision
+
+for each word included in a document.
+
+Definition of some word categories can help define the concepts of good
+
+word selection. For example, a person’s 21,000 word repertoire can be bro
+
+ken down by grammatical function into four categories:
+
+• Utility words like conjunctions (and, or, but, if, and so forth)
+
+• Substance words for action (verbs) or subjects (nouns)
+
+• Descriptive words that modify other words (adverbs, adjectives,
+
+clauses)
+
+• Contractions for people who do not have time to write out the real words
+
+These basic categories are very general, but the usage of some types may
+
+have more priority than usage of other word types. Substance words may
+
+be more important than descriptive words, which are probably more im
+
+portant than utility words.
+
+Many words also have a “personality” of their own, just as words may
+
+reflect the personality of the author. Figure 7.3 lists 15 categories of word
+
+types with unique characteristics, as described below in more detail. This
+
+TYPES OF WORDS
+
+ClichÈ
+
+Foreign
+
+Gender
+
+specific
+
+Action
+
+Archaic
+
+Bottom line
+
+Done deal
+
+Far flung
+
+Snug as a bug
+
+Abbreviated
+
+Et cetera
+
+Ibid
+
+Et al
+
+Per se
+
+Negative
+
+His
+
+Her
+
+She
+
+He
+
+Technical
+
+Produce
+
+Change
+
+Exceed
+
+Organize
+
+Slang
+
+Albeit
+
+Herewith
+
+Hence
+
+Hereafter
+
+Euphemisms
+
+Info
+
+Lab
+
+Dept
+
+Sub
+
+Long
+
+Mistake
+
+Oversight
+
+Accident
+
+Clumsy
+
+Complex
+
+Spectroscopy
+
+Martensite
+
+Fluoroscopy
+
+Comminution
+
+Uncommon
+
+Hosed
+
+Miffed
+
+Hoot
+
+Bummer
+
+Technobabble
+
+Passed away
+
+Incident
+
+Pre-owned
+
+Marketer
+
+Profanity
+
+Predominant
+
+Proximity
+
+Ajudicate
+
+(Well known)
+
+Eventuality
+
+Active
+
+Phraseology
+
+Diametrical
+
+Incongruent
+
+Pernicious
+
+Passive
+
+Proclivity
+
+Unctuous
+
+Abrogate
+
+Ameliorate
+
+Happy
+
+Leverage
+
+Boot
+
+Strategize
+
+Overarching
+
+Sad
+
+Meaningless/
+
+misleading
+
+Achieved
+
+Finished
+
+Built
+
+Inspected
+
+Was
+
+Were
+
+Has
+
+Is
+
+Joy
+
+Health
+
+Smile
+
+Laugh
+
+Death
+
+Disease
+
+Sickness
+
+Cancer
+
+Best
+
+Highest
+
+Unsurpassed
+
+Excel
+
+Fig. 7.3 Spectra of words available for technical writing
+
+112 / Engineers’ Guide to Technical Writing
+
+Fig. 7.4 Word choices for technical writing
+
+breakdown is useful, because some word types are inappropriate for tech
+
+nical writing. It really is important not to use slang, cliches, “technobab
+
+ble”, or uncommon, angry, and negative words.
+
+Figure 7.4 is an illustration showing preferred types of words for technical
+
+documents. There are few word types without a “do not use slash,” but do
+
+not worry. There are enough active, technical, action, and positive words left
+
+to meet even the largest writing task. Remember, you know 20,000 or more.
+
+Cliches are essentially figures of speech. Groups of words are taken to
+
+gether to have a contemporary meaning. They come and go in popularity.
+
+Foreign words are also part of the English language, such as, restaurant
+
+(French), pizza (Italian), envoy (French), soprano (Italian), and resumé
+
+(French). There are many other examples. The foreign words listed in
+
+Fig. 7.3 are Latin terms widely used in English writing. You, the author,
+
+must decide if your readership will know their meanings:
+
+• etc. et cetera and so forth
+
+• Ibid ibidem in the same place (cited previously)
+
+and others
+
+Writing Style / 113
+
+• et al.
+
+• per se by itself
+
+• i.e. id est that is
+
+• e.g. exempli gratia for example
+
+Words with a presumption of gender abound in the English language:
+
+chairman, congressman, salesman, meter maid, repairman, and so forth.
+
+These words suggest that only a man or a woman could do them, which is
+
+often an anachronism. Nowadays, professional writers avoid words with any
+
+arbitrary or presumptuous reference to a specific gender, religion, ethnic
+
+group, or special group. All readers should be approached in an inclusive
+
+manner without presumption of unnecessary distinctions. For example,
+
+twenty years ago, form letters in business often had the salutation of “Dear
+
+Sir.” This presumption of gender reflects poorly on the author and should
+
+be avoided. Current salutations include “Dear Resident,” “Dear Subscriber,”
+
+and “Dear Reader.” Salesperson is used in place of salesman. Chair is used
+
+instead of chairman; meter monitor is used instead of meter maid.
+
+Action words are meant to evoke or elicit feelings of excitement or
+
+progress. It is commonplace in American business to develop vision and
+
+mission statements for every department as well as the overall company.
+
+The people who promote these exercises insist on using words of action in
+
+developing these statements. Some words by nature have that connotation.
+
+Race, fight, beat, and convert all imply action. When you use these words,
+
+you describe something that happened, or you try to evoke action or ex
+
+citement from the reader. Conversely, verbs that do not suggest as much
+
+action are list, number, think, consider, study, and so forth. These words
+
+are simply not as bold.
+
+Archaic or old fashioned words can be used, but possibly only old
+
+readers will know what they mean. Some biblical words like “thou shalt”
+
+fit in the archaic category. [When I was a youth, all of the homes in the
+
+neighborhood were heated with coal. There were many words associated
+
+with coal furnaces that are probably unknown to people born after 1960.
+
+The coal man (gender specific, then) delivered either anthracite or coke (if
+
+you had a stoker) through a basement window into the coal bin. He (not he
+
+or she) used a wheelbarrow to unload the coal from the truck and dumped
+
+the coal down a coal chute. We had to stoke the fire several times a day,
+
+and, in the winter, we put the ashes and cinders on the driveway and side
+
+walks for traction. I suspect that many students in the second millennium
+
+will not be familiar with terms such as coal man, stoke, cinders, anthracite,
+
+and coal chute. They became archaic in only 50 or so years.]
+
+Contemporary abbreviations of words are very commonplace in the
+
+United States. They are not legitimate abbreviations but ones that simply
+
+evolve. The abbreviations listed in Fig. 7.3 are familiar to most English
+
+speaking people, but sometimes these shortened words are not generally
+
+known. [I have noticed that public works departments have been using
+
+shortened words on road signs, such as Niagara Coll, thru traffic, City
+
+114 / Engineers’ Guide to Technical Writing
+
+Cent, and 50 MPH Min. I assume that Coll is short for college, thru for
+
+through, cent for center, min for minimum, but I am not sure. These ab
+
+breviations will not be found in most approved lists of abbreviations.]
+
+Negative words such as those listed in Fig. 7.3, suggest something un
+
+desirable, whether used as nouns, verbs, or modifiers. A mistake is almost
+
+always undesirable. An “oversight” and an “accident” are similar to a “mis
+
+take”; all imply a negative connotation. The last word on our negative word
+
+list, clumsy, is almost name-calling. Many English words almost always
+
+evoke negative reactions:
+
+• Lazy
+
+• Indolent
+
+• Shiftless
+
+• Ignorant
+
+• Rude
+
+• Crazy
+
+• Loud
+
+• Fat
+
+• Boisterous
+
+• Impolite
+
+• Terse
+
+• Dumb
+
+Their use is usually avoided in technical writing.
+
+Technical words are certainly to be expected in technical documents,
+
+but there can be an overdose.
+
+Too Many Technical Words
+
+The analysis of the spectral frequency output of the Johannsen-type goniopho
+
+tometer was accomplished by embedding algorithms in a derived linear regres
+
+sion analysis computer program. Second order derivatives...
+
+The technical words listed in Fig. 7.3 pertain to materials engineering,
+
+but there is a list of parochial words for every technical field. You know
+
+the ones in your field, but you may not know the ones used in other tech
+
+nologies. A technical document may miss its mark if the reader is not fa
+
+miliar with many of the words.
+
+Slang abounds in our daily interactions with coworkers, service
+
+providers, and even bosses. Words like “hosed,” “neat,” “cool,” and “bum
+
+mer” have well-known meanings in the United States:
+
+• Hosed means cheated.
+
+• Neat means nice.
+
+• Fine means attractive.
+
+• Bummer means negative outcome.
+
+They are used in most circles, but none of them read well in technical
+
+writing.
+
+Writing Style / 115
+
+Slang in Technical Writing
+
+We completed corrosion tests on eight types of cemented carbides. The cobalt
+
+binder was varied from 6 to 14 percent and the effect of binder content on corro
+
+sion rate was determined. Sample preparation was a bummer. Two grades of test
+
+materials, the 6 percent and 8 percent cobalt grades, could not be polished to the
+
+required surface roughness of 6 to 8 micros.
+
+Euphemisms are words or phrases used in place of what really needs to
+
+be said. In many cases, euphemisms are used to make things sound better.
+
+For example, garbage collectors are called sanitation workers; it is more
+
+genteel to say “where is the restroom?” than “where is the toilet?” Eu
+
+phemisms also are very commonly used in industry in the United States.
+
+Industrial euphemisms
+
+Meaning
+
+Strategic framework
+
+Downsizing
+
+Technology road maps
+
+Operational excellence
+
+Career enhancement
+
+Development opportunity
+
+Diagonal slice
+
+Performance matrix
+
+Shareholder satisfaction
+
+Overarching goals
+
+Plan
+
+Layoff
+
+Plan
+
+Good work
+
+More work
+
+Problem
+
+Opinions
+
+To-do list
+
+Quarterly results
+
+Objective
+
+The user usually intends to make something sound nicer or grander than
+
+it is, but in reality the readers often miss the intended meaning or may be
+
+annoyed with the unnecessary words. In all of the above instances, the eu
+
+phemism requires extra length.
+
+Euphemisms are also commonplace with computer technology, and per
+
+sonal computers (PCs) have prompted almost a second language by as
+
+signing specialized meanings to ordinary words.
+
+Personal computing term
+
+Meaning
+
+Boot
+
+Memory
+
+Download
+
+Upload
+
+On-line
+
+Crash
+
+Program
+
+Software
+
+Hardware
+
+Disk
+
+Drive
+
+Turn on the computer
+
+Storage capacity
+
+Transfer from another source
+
+Transfer to others
+
+Connected to other computers
+
+Electrical problem
+
+Operating instruction for a computer
+
+Programs
+
+Electrical equipment associated with personal computers
+
+A data storage device
+
+An electrical device to read magnetic media
+
+Long words and complex words, the next two types in Fig. 7.3, often
+
+conflict with the objective of concise writing. Good documents of any type
+
+are concise, and the following words and phrases are examples of wordy
+
+phrases and more concise alternatives:
+
+116 / Engineers’ Guide to Technical Writing
+
+Concise replacement
+
+Wordy phrase
+
+And so as a result
+
+Day to day routine
+
+On the rise
+
+On the basis of
+
+Not withholding the fact that
+
+Is knowledgeable about
+
+It is evident that
+
+It is important to note
+
+Hence
+
+Routine
+
+Growing
+
+Based on
+
+But
+
+Knows
+
+Clearly
+
+Note
+
+Concision can also be applied to individual words.
+
+Big word
+
+Facilitate
+
+Contact
+
+Attempt
+
+Additionally
+
+Congregate
+
+Significantly
+
+Springtime
+
+Therefore
+
+Utilization
+
+Concise replacement
+
+Help
+
+Call
+
+Try
+
+Also
+
+Gather
+
+Greatly
+
+Spring
+
+So
+
+Use
+
+Simpler, easier to read words can usually replace complex words like
+
+those listed in Fig. 7.3, including “terms” for “phraseology,” “opposing”
+
+for “incongruent,” and “harmful” for “pernicious.”
+
+Uncommon words (such as proclivity, unctuous, abrogate, and ame
+
+liorate) are not widely known and make reading more difficult. As men
+
+tioned earlier, each English-speaking person knows a different quantity of
+
+the 40,000 or so words in the English language. Many times, writers use
+
+long, complex, and uncommon words to demonstrate intellectual author
+
+ity. They may succeed at this but fail to make the point of the document.
+
+Newspapers are a good example of a proper level of word usage. Most pro
+
+fessional writers in the United States possess a 30,000 English vocabu
+
+lary, but they write news articles using a 15,000 word vocabulary. They
+
+write for a readership with educations ranging from grade school through
+
+Ph.D. [I have yet to hear a Ph.D. complain that newspapers are written at
+
+a level that is too simple. Simple writing is often the easiest reading.]
+
+Technobabbleincludes manufactured words and phrases similar to some
+
+industrial euphemisms. Every profession has words with special meanings,
+
+but overuse of specialized terms or big words (strategize, overarching, de
+
+liverable, and so forth) with simple meanings may only just obscure mean
+
+ing and frustrate readers. These words have meaning within the profession,
+
+but the meaning outside may be very different. This must be considered in
+
+their use. Does your reader know what a deliverable is?
+
+Profanity is, of course, totally unacceptable in any business or technical
+
+document. In U.S. business and industry, there are very strict rules about
+
+sexual harassment. Profane language often has sexual overtones that would
+
+violate most sexual harassment guidelines. One off-color remark could cost
+
+a person his or her job in spoken word or writing.
+
+Writing Style / 117
+
+Active and passive words involve the reader in very different ways. As
+
+previously noted in Chapter 6, “Criteria for Good Technical Writing,” writ
+
+ing in the active voice usually makes documents more readable. The active
+
+voice is a good attribute in any form of writing, because writing in the ac
+
+tive voice makes your statements more forceful. The active voice simply
+
+means that the subject of the sentence does action. Passive voice, on the
+
+other hand, does not identify who is doing the action:
+
+Passive Voice
+
+Samples of each candidate plastic were sectioned and mounted.
+
+Active Voice
+
+The metallurgical laboratory sectioned and mounted a sample of each candidate
+
+plastic.
+
+In the active voice, the reader knows who did the sectioning and mount
+
+ing. Active voice generally requires the use of action verbs (like the ones
+
+in Fig. 7.3), while passive verbs tend to give readers observations. This is
+
+one reason why technical documents, which must present observational re
+
+sults, often use passive verbs. The passive voice is unavoidable; just try to
+
+eliminate passive verbs whenever you can. As shown in the following ex
+
+amples, the indirect result of using the active voice is to make clear who is
+
+doing the action.
+
+Active Voice
+
+• The Alpha Site Team achieved a tenfold improvement in knife life.
+
+• The shop safety team finished instructing all employees on safe lifting practices.
+
+• Cosgrove Construction Company built seven reinforced plastic storage tanks
+
+for Nocal Chemical Corp.
+
+• The NDE technician from the Materials Engineering Lab inspected three hypo
+
+solution tanks in B-58.
+
+Passive Voice
+
+• A noticeable difference in quality was observed between U.S. and Canadian
+
+products.
+
+• Rehabilitation was discussed at the quarterly review meeting.
+
+• Never has the subject of unionism been discussed.
+
+• A production trial is scheduled for November 30.
+
+Words that evoke happiness or sadness are two other categories listed
+
+in Fig. 7.3. Feelings of happiness or sadness are not objectives in report writ
+
+ing, but there may be occasions to use these kinds of words in business or
+
+day-to-day communications. For example, managers may write a holiday
+
+greeting to employees. Just keep in mind that some words can alter the mood
+
+and morale of a reader.
+
+118 / Engineers’ Guide to Technical Writing
+
+Meaningless or misleading words represent the final category of word
+
+types in Fig. 7.3. Many well-used words in the English language do not pro
+
+vide any meaningful information. For example, most superlatives (best,
+
+greatest, superior, fastest, and so forth) are meaningless or misleading words
+
+without factual foundation. These words (when you step back and think
+
+about them) are often unsubstantiated claims. The author did not and could
+
+not test every screwdriver in the world in order to claim that he or she sells
+
+the best. Never claim product superiority without test data to support the
+
+statement.
+
+Not Credible
+
+Cubic zirconia is superior to tool steel in wear and corrosion resistance.
+
+Certainly the author did not test zirconia against all kinds of wear. It
+
+would last only seconds in a gyratory rock crusher. Similarly, there may be
+
+an environment that dissolves zirconia and not steel. The author has not
+
+tested all environments. Therefore, this statement is meaningless and, at
+
+the least, very misleading.
+
+Words that cannot be backed with facts will lower the credibility of your
+
+document. Superlatives generally represent unsupportable claims and thus
+
+should be avoided in technical writing. Some other examples of meaning
+
+less or very misleading words include:
+
+• outstanding
+
+• biggest
+
+• ultimate
+
+• optimize
+
+• maximize
+
+• cheapest
+
+• farthest
+
+• robust
+
+• highest
+
+• friendliest
+
+• fastest
+
+• lowest
+
+If you ask, “What do these words mean?” the answer may be “nothing.”
+
+Sentence Construction
+
+Construction of good sentences follows directly from word choice. Build
+
+sentences with concise, vigorous, and substantive words in the active voice.
+
+Include valid facts and data. Suppress your inclination to use meaningless
+
+and negative words, euphemisms, and abbreviations.
+
+Writing Style / 119
+
+What recommendations should you follow when forming sentences? In
+
+a way, readers are like voters in a political election. They do not want neg
+
+ative statements. Voters want to hear positive statements with substantive
+
+recommendations for the future. This same strategy applies in technical
+
+writing. Sentences need to be clear, concise, understandable, and based
+
+upon positive words.
+
+The basic rules of sentence formation are taught in school, but bad habits
+
+often persist. Confusing clauses, slang, idioms, and errors in grammar or
+
+punctuation are the common causes of poor sentence construction. This
+
+section focuses on five poor “sentence habits” that commonly appear in
+
+technical writing. Elimination of these unsound habits can improve con
+
+struction of sentences.
+
+[Opinion plays a role in writing style. By definition, persona is a key fac
+
+tor in style. My suggestions on word use, sentence construction, and para
+
+graphing are mostly based upon my experiences in reviewing the work of
+
+others. I review technician and junior engineer reports daily, one or two
+
+papers a month for technical journals, and periodically MS and Ph.D. the
+
+ses and government research proposals. I am not picayune. I do not sub
+
+stitute my words for those of others. I only make suggestions for concision,
+
+clarity, and questionable facts. The following top-five sentence “problems”
+
+are my opinion based on reviewing experiences. They are from my Pareto
+
+chart. Others involved with technical writing may have another list, but we
+
+both have the same objective—a document that the reader understands.]
+
+Problem One: Starting with Dependent Clause. It is not grammati
+
+cally wrong to start a sentence with a dependent clause, but the resulting
+
+sentences often lack concision and are difficult to understand.
+
+Starting with a Dependent Clause
+
+At the start of the business year and at the beginning of the third quarter, the lab
+
+oratory has a project review with the director of research.
+
+The reader had to wade through 15 words to discover that you were talk
+
+ing about the laboratory. Why not tell the reader up front?
+
+Starting with a Noun
+
+The laboratory has a project review with the director of research each January and
+
+July.
+
+The sentences in the preceding two examples have the same meaning,
+
+but the latter is more clear and concise. The modifying phrase with the data
+
+is still present, but it is easier to read when moved to the end of the sen
+
+tence. Extra words were also removed to make the sentence more concise.
+
+The remodeled sentence has 15 words, reduced from 26.
+
+120 / Engineers’ Guide to Technical Writing
+
+When a sentence starts with a dependent clause, another problem may be
+
+confusion on what the clause refers to in the sentence.
+
+Beginning with a Clause
+
+Traveling to the western tank farm, he met three lab members near building 318.
+
+Were the lab members traveling to the tank farm or was he? This is the
+
+kind of confusion that often occurs when a dependent clause is moved away
+
+from the word that it modifies.
+
+Beginning with a Pronoun
+
+He met three lab members on his way to the western tank farm. They were near
+
+building 318.
+
+This second version is clearer. Many times clarity can easily be improved
+
+by breaking a long sentence into two or more sentences.
+
+Starting sentences with clauses can be infectious. Some people do it on
+
+almost every sentence. It produces an indirect tone. Every statement seems
+
+to have a preamble. You can correct this bad habit by thinking about how
+
+you start each sentence. Do you really need to start with a modifying clause,
+
+or can you say what you want directly without qualifiers? If you can, then
+
+do it. It helps the reader.
+
+Problem Two: Subject and Verb Do Not Agree. As we all know, the
+
+rules of English require agreement of subject and verb. If the subject is sin
+
+gular, the verb must also be singular. Long sentences with many clauses
+
+often create a significant physical separation of the subject and verb, and
+
+this often leads to subject-verb disagreement.
+
+Subject and Verb Do Not Agree
+
+Metallography of failed balls and races are key aspects of failure analysis.
+
+The subject, metallography, is singular, but the sentence uses a plural verb,
+
+because the author has confused the modifying words “of balls and races”
+
+as the subject. Even the grammar checks in word processing programs
+
+sometimes miss this subtle mistake.
+
+This type of mistake also occurs when an author makes the verb agree
+
+with words that immediately precede it:
+
+Subject and Verb Do Not Agree
+
+The output of three wear testers, the block-on-ring, the ball-on-plane, and the mi
+
+crotribometer are directed to a single computer.
+
+Writing Style / 121
+
+Agreement
+
+The output of three wear testers, the block-on-ring, the ball-on-plane, and the mi
+
+crotribometer is directed to a single computer.
+
+The subject of this sentence is output, which is singular.
+
+Quirks of the English language may also cause problems with subject
+
+and verb agreement. For example “plural-sounding” words like series,
+
+group, flock, gathering are really singular.
+
+Agreement
+
+A group of distinguished metallurgists is to convene for the selection process.
+
+Other words (for example, none, some, all, or more) can be used prop
+
+erly in either singular or plural form:
+
+• All of the literature is complete.
+
+• All were complete.
+
+• Some of the literature has been delivered.
+
+• Some are to be delivered.
+
+In summary, watch for subject-verb agreement. It can be tricky. This mis
+
+take is often noticed and can distract the reader from a message.
+
+Problem Three: Incoherent Sentences. Sometimes during review of a
+
+document, a sentence just does not make any sense. What is the author try
+
+ing to say? Very often this occurs when writers are “on a roll” or in a
+
+“stream of consciousness,” where their mind is going faster than their fin
+
+gers can type. Parts of the next sentence get merged with the sentence in
+
+progress. Sometimes a key word is inadvertently omitted.
+
+Incoherent sentences usually result from the omission of a word.
+
+Incoherent
+
+The procedure for cutting circuit boards for failure study begins stripping the de
+
+vices.
+
+In this example, the writer left out “with” between begins and stripping.
+
+Another example can be a missing verb.
+
+Incoherent
+
+Differential scanning calorimetry (DSC) and thermogravimetric analysis (TGA) to
+
+determine if any significant differences existed between the samples identified as
+
+A and D.
+
+122 / Engineers’ Guide to Technical Writing
+
+It appears that a “were used” or “were employed” was intended after TGA.
+
+Incoherent sentences may also occur when two sentences are inadver
+
+tantly merged:
+
+Incoherent
+
+It is typical for polypropylene-polyethylene blends to have a melt flow index and
+
+the past processing cooling on a mandrel reduces distortion.
+
+Whatever the cause, incoherent sentences can easily be prevented by hav
+
+ing peer review of every document.
+
+Problem Four: Same-Sounding Word and Wrong Usage. A signifi
+
+cant number of English words have the same pronounciation but very dif
+
+ferent meanings, such as:
+
+• Two, to, and too
+
+• Coarse and course
+
+• Principal and principle
+
+• Loose and lose
+
+• Plane and plain
+
+• Their and there
+
+• See and sea
+
+• Affect and effect
+
+• Brake and break
+
+The words in the preceding list are frequently misused. The root cause
+
+can be reliance on only computer spelling checking applications. Some
+
+times grammar checkers can pick up misuse, but even here, programming
+
+misses some quirks of the English language. The machines do not know
+
+what the writer is trying to say, and they often cannot detect misuse of
+
+words in technical phrases.
+
+The following is an example of a document that made it through a spelling
+
+checker with just about every word misused:
+
+The problem width a spell checker
+
+Eye wood like to show that spell check hers will knot all ways fined words that
+
+are used inn correctly. The rite spelling is only pro deuced by reeding the work
+
+over and by watching for words with multi pull spellings. All duel spellings caught
+
+bye soft wear cannot be assummed.
+
+The solution to this problem is to reread your work after using the spelling
+
+checker.
+
+Problem Five: Sentences Containing Slang or Idioms. Slang is never
+
+proper in writing. The readers may assume that the writer does not know
+
+the proper terms and question author credibility. Slang and idioms are
+
+particularly inappropriate in communications. Readers who have English
+
+Writing Style / 123
+
+as a second language may not be familiar with slang or idiomatic expres
+
+sions and may completely misinterpret your document.
+
+Use of an Idiomatic Expression
+
+The rejection rate is higher than normal for the delta station chassis that we have
+
+received from France. Please get on top of the situation.
+
+A French-speaking person may have no idea what is meant by “get on top
+
+of the situation.” Similarly, that person may not recognize slang words.
+
+Use of Slang
+
+The transport roller bearings were hammered. There was reddish goop coming out
+
+of the seal. We decided that this baby had to go, and we served up a new issue.
+
+Translation
+
+The transport bearing failed. Wear debris was apparent in the seal area, and a de
+
+cision was made to replace it.
+
+Summary. In summary of this section, sentences need to be clear, con
+
+cise, understandable, and based on positive words. Keep in mind some of
+
+the examples of common sentence problems. A writing style should use
+
+sentences free of clauses that can confuse, slang, idioms, and errors in gram
+
+mar or punctuation. These mistakes can easily be prevented by acquiring
+
+peer review of every document.
+
+Paragraphs
+
+Paragraphs make reading easier by breaking a document into pieces. It
+
+would be difficult to read any document without paragraphs, as the human
+
+eye and brain need to recognize when an author finishes one thought and
+
+moves to another. Reading a book without paragraphs would be compara
+
+ble to eating an eight-ounce steak without cutting it. A paragraph break (de
+
+noted by an indentation or skipped line of text) provides a necessary sig
+
+nal that a new thought, idea, or piece of information is coming.
+
+Paragraphs are essential in good writing, and most people take paragraphs
+
+for granted. Good paragraphs are unnoticeable. We have always read in
+
+paragraphs; everything is broken into paragraphs in newspapers, books,
+
+and letters. Good paragraphs are inconspicuous, because they just make
+
+reading easier by grouping related sentences together. This basic objective
+
+depends on the choice of paragraph content and length.
+
+Paragraph Content. The key part of any paragraph is its topic sentence.
+
+Paragraphs must have a topic sentence, which is supported by the other sen
+
+tences in the paragraph. Most often, the paragraph begins with the topic
+
+124 / Engineers’ Guide to Technical Writing
+
+sentence. It continues with supporting sentences and then ends with some
+
+form of thesis restatement and a transition to the next paragraph.
+
+For technical documents, the purpose of a paragraph is either to persuade
+
+or to share information. These purposes lend themselves to specific strate
+
+gies for development of paragraph contents. To persuade someone of some
+
+thing, first assert what you want the readers to think or do. This is done
+
+with a topic sentence.
+
+RULE
+
+Every paragraph must have a topic sentence.
+
+This is the topic sentence for the next section, where the purpose is to
+
+persuade you about the importance of paragraph length. In the next step,
+
+the paragraph is built with examples and arguments that convince readers
+
+of the importance and validity of the topic sentence. Readers may be per
+
+suaded in many ways, and so a strategy or plan is needed. Besides exam
+
+ples of long and short paragraphs, one could try to make paragraphs the
+
+right length by listing grammar rules on paragraphs. Another persuasion
+
+technique is the use of analogies (like the steak one).
+
+Most persuasion strategies involve a presentation that progresses from
+
+general to specific statements. Start with your topic sentence and some gen
+
+eral related sentences. Then, move on to specific examples, facts, argu
+
+ments—whatever it takes to make the point. End the paragraph by restat
+
+ing the topic sentence in a modified form. This is the classic approach: tell
+
+them what you want to say, say it, and tell them what you said.
+
+The strategy for information sharing is similar. You are not sharing in
+
+formation without reason. Publishing a paper in a public journal is the ul
+
+timate example of sharing, but the work is out there for all to criticize.
+
+Therefore, your purpose is to be convincing as well. In writing a trip re
+
+port, where one simply describes what he or she saw at the Atlas Welding
+
+Company, intentionally or not, the writer’s words are producing a reader
+
+result. The reader forms a favorable or unfavorable opinion of Atlas Weld
+
+ing, depending on writing style. The writer ends up persuading the reader.
+
+RULE
+
+Paragraphs contain a complete thought.
+
+Paragraph Length. As pointed out in the previous section, paragraphs
+
+need to be the right length. Is the correct length one sentence, ten sentences,
+
+250 words, or 500 words? Unfortunately (for us engineers who like to think
+
+by the numbers), there is no numerical rule on the number of sentences or
+
+words in a paragraph. If a complete thought can be expressed in one sen
+
+tence, and if that is all that you want the reader to know, then a paragraph
+
+can be one sentence.
+
+Writing Style / 125
+
+One Sentence Paragraph
+
+In developing this standard, other standard recommended practices from some of
+
+the largest manufacturers (Polk, LTC, and Toledo Gear) of gear reducers were com
+
+piled along with Tribology’s knowledge of company applications to determine a
+
+common procedure that would encompass the vast majority of gear reducers in
+
+the company.
+
+[This paragraph has other problems, but it was still published in a com
+
+pany newsletter.]
+
+On the other extreme, a paragraph that goes on for several pages is very
+
+difficult to swallow and digest. A page or screen full of words just does not
+
+look right. Long paragraphs often reflect poorly on the author as a “wind
+
+bag,” which is a likely perception of readers subjected to an uninterrupted
+
+page of words. [I would never even consider reading any document that
+
+contained even one page without paragraph breaks. This is a personality
+
+fault. It was probably brought on by having to read Milton’s “Paradise Lost”
+
+in a high school English course. Boring!] Some people never stop talking.
+
+Those are the people who write long paragraphs.
+
+One rule of thumb for paragraph length is that good paragraphs are vi
+
+sually appealing with easily discernible and meaningful paragraph breaks
+
+on each page. Each page (or a screen view) needs at least one paragraph
+
+break, but more than three may be too many. This is about the extent of any
+
+numerical rule on the length of paragraphs, but it can help in identifying
+
+places where writing can be improved.
+
+If a complete thought takes more than a full screen or printed page of words,
+
+then alter writing strategy to yield more bit-sized arguments. If you come up
+
+with “too small paragraphs,” the same is recommended. Change your writing
+
+strategy to add more support to the thesis. One-sentence paragraphs are ac
+
+ceptable, but that should be all that needs to be said. As you adjust your writ
+
+ing strategy, strive to keep a balanced flow of paragraph breaks. The breaks
+
+just have to coincide with the “complete thought” rule. Each paragraph con
+
+tains related sentences, an ending, and a transition that do not go on forever.
+
+RULE
+
+Paragraph length needs to be just right; just give enough information for a
+
+thorough discussion of the topic sentence.
+
+Another writing concept that may help determine the length of paragraphs
+
+is the idea of parallel construction for lists. When authors make lists, each
+
+item in the list is treated in the same way as the other list items. For exam
+
+ple, if the first item in a list begins with an adjective, then all the items in
+
+the list should begin with an adjective. If the first item is expressed in one
+
+sentence, then all the items in the list should be expressed in one sentence,
+
+if possible. This is the idea of parallel construction for lists. An example of
+
+126 / Engineers’ Guide to Technical Writing
+
+this is the list of “Chapter Goals” at the beginning of each chapter in this book.
+
+These lists have parallel construction, as each list item begins with a verb.
+
+The concept of parallel construction can also help one shape the length
+
+of paragraphs. Just think of all paragraphs as a list of thoughts or topic sen
+
+tences. Like any list, you want a balanced presentation of each item. If you
+
+treat each topic sentence as parallel ideas with roughly the same amount of
+
+support, then you can achieve a good balance of paragraph length. Obvi
+
+ously some paragraphs may be more important than others. However, this
+
+does not mean they have to be longer.
+
+The headings in a document are also useful tools in shaping paragraphs.
+
+Important paragraphs should be appropriately placed in your heading hi
+
+erarchy. Important ideas do not require long paragraphs; they do deserve
+
+prominent positioning in heading structure. Likewise, a series of less
+
+important but parallel topics can be broken down by headings. Good use
+
+of headings is thus another way to achieve an even balance and flow of
+
+paragraph breaks in documents.
+
+Summary of the Elements in Style
+
+Writing style is like personal lifestyles. Everybody is different in the use
+
+of words, sentences, and paragraphs. However, technical writing requires
+
+a style different from creative writing. It requires a style that conveys in
+
+formation rather than art.
+
+Words must be chosen carefully. There are many types of words avail
+
+able to the technical writer, but only particular types of words should be
+
+used (active, factual, positive, and so forth). Be very aware of tone. Per
+
+sonal feelings (biases) can be determined from word choice.
+
+Sentences and paragraphs also need good structure, length, and focus.
+
+Sentences should be concise and direct statements with a complete thought.
+
+All paragraphs need a topic sentence that is supported by the other sen
+
+tences in the paragraph. These are just some of the elements of style. Other
+
+elements are described in subsequent Chapters.
+
+7.2 Examples of Writing Styles
+
+The writing style of an author often becomes apparent the second time that
+
+you read something by the author. Mannerisms become apparent. A formal
+
+style of technical writing by an accomplished author looks like the following:
+
+Formal Technical Writing Style (P.J. Blau, Friction Science and Technology,
+
+Marcel Dekker Inc., 1995, p 204, used with permission)
+
+The process of lubrication is one of supporting the contact pressure between op
+
+posing surfaces, helping to separate them, and at the same time, reducing the slid
+
+Writing Style / 127
+
+ing or rolling resistance in the interface. There are several ways to accomplish this.
+
+One way is to create in the gap between the bodies geometric conditions that pro
+
+duce a fluid pressure sufficient to prevent the opposing asperities from touching
+
+while still permitting shear to be fully accommodated within the fluid. That method
+
+relies on fluid mechanics and modifications of the lubricant chemistry to tailor the
+
+liquid’s properties—especially its viscosity and the dependence of viscosity on
+
+temperature and pressure ...
+
+This style is impersonal. It presents facts, and it uses enumeration in the
+
+paragraph to make a point. There are no personal pronouns, slang, idioms,
+
+or any of the “less-preferred” words. The grammar may not meet every En
+
+glish teacher’s expectations, but the message is clear. This example mir
+
+rors a basic lesson advocated in this book: a clear message should be your
+
+goal. Strive for perfection, but do not make pursuit of good grammar the
+
+primary goal. Reasonable grammar, which obeys the rules of English, is
+
+adequate when your primary goal is the clarity of content.
+
+Technical documents can have a less formal style than the previous ex
+
+ample. Reports to peers or within a department may have a more informal
+
+style with some limited use of personal pronouns:
+
+Informal Style
+
+The Materials Engineering Laboratory has an on-going program to promote the use
+
+of ceramics and cermets for tools subject to corrosion. A limitation of the use of
+
+most ceramics is their inability to be machined in the sintered state. There are
+
+some ceramics that have been modified by addition of a conductive phase (like
+
+graphite) to allow electrical discharge machining, but to-date, these additions have
+
+had a detrimental effect on mechanical properties.
+
+It is the purpose of this report to present experimental results on machining of zir
+
+conia with conventional machine tools. We attempted milling with diamond
+
+coated cemented carbide end mills. We will show surface finish and dimensional
+
+results in machining dies for edge trimming of polyester film support.
+
+A descriptive style pertains to documents that need to explain something.
+
+The document may be an instruction manual or a report that explains a
+
+process or a design concept. These types of descriptive documents can be
+
+written in different ways depending on author style. For example, a de
+
+scription in the active voice has a different connotation than the passive
+
+voice:
+
+Active voice
+
+Put the oil indicator into the sump and connect it to the data logger.
+
+Passive voice
+
+The oil indicator is put into the sump and connected to the data logger.
+
+It is probably apparent at this point that this description needs an illus
+
+tration. How does one slide a paper clip on-end down a plane? A sketch
+
+and a list of key parts would clarify things.
+
+Description (continued)
+
+As shown in Fig. 7.5, the paper clip is cut so that one loop extends about 0.5 inches
+
+from an acrylic sheet that is cut in a “U” shape with the paper clip at the valley of
+
+the “U.” The “U” is inserted, and it straddles the plane that holds the film to be
+
+The statement in the active voice is written as an imperative. It is telling
+
+you to do it like this.
+
+In general, machine or process descriptions first explain the purpose of
+
+the device or process, the way it is used, and any essential background in
+
+formation on its importance. Reasons for the reader to continue or put the
+
+document aside are given. The overall size or dimensions of the device or
+
+the operating specifications and capabilities of a process are explained or
+
+described. Next component parts may be listed—what they look like and
+
+what they do. Then how the parts are put together and how they work as a
+
+unit are described.
+
+128/ Engineers’ Guide to Technical Writing
+
+Paper clip
+
+Descriptive Writing
+
+The paper-clip friction tester has been used since 1987 to measure the presence
+
+of wax on photographic films. It is basically an inclined-plane friction tester like
+
+those used in high school physics labs. In this version, a strip of film (usually 35mm
+
+wide) is fastened with clips to the plane that is raised to produce motion of a rider.
+
+The rider is the radiused end of a paper clip. The end of the paper clip is placed
+
+on the web (vertically with its flatwise plane aligned with the long axis of the in
+
+clined plane). The plane is hinged at one end and the free end is raised until the
+
+rider motion is produced. The tangent of the angle of inclination of the plane when
+
+the paper clip starts to slide is the static coefficient of friction.
+
+Fig. 7.5 Schematic of paper clip test
+
+Writing Style / 129
+
+tested. The dimensions of all components and the placement of the inclined plane
+
+hinge are given in diagram A.
+
+The details of the test procedure and reporting of data are available in the ASTM
+
+G 164 Standard Test Method. The output of the test is the breakaway friction co
+
+efficient, which, in turn, will indicate if wax or another lubricant is present. If the
+
+value is less than 0.2, a lubricant is present.
+
+It would take considerably more text to completely describe this device
+
+in words. The sketch probably saves three pages. This example illustrates
+
+the value of graphics in descriptive writing.
+
+Some technical writing is done strictly to inform. There is no subliminal
+
+message, no attempt to persuade the reader. The goal is simply to inform
+
+on a subject that may be of general interest. Professionally written pieces
+
+in technical magazines often use this style.
+
+Informational Technical Writing (Steel, Material for the 21st Century, Advanced
+
+Materials & Processes, ASM International, Jan 1996, p 29, used with permission)
+
+In spite of inroads by a range of competing materials, steel is still the primary struc
+
+tural material because of its outstanding strength, ductility, fracture toughness, re
+
+pairability, and recyclability. Over the past ten years, advances in steelmaking and
+
+processing technologies have enabled the development of a wide range of new
+
+steel products with improved properties. For example, combinations of closely
+
+controlled chemical composition, rolling practices, and cooling rates now permit
+
+the production of steels with enhanced fracture toughness and lower susceptibil
+
+ity to hydrogen cracking.
+
+The expanded use of vacuum degassing, ladle treatment, and continuous casting
+
+has led to the introduction of ultra-formable steels for complex automotive parts
+
+and has provided improved electrical steels for the electric motor and transformer
+
+industries. The higher ductility of extra-deep-drawing steels has allowed auto de
+
+signers to consolidate parts. At the same time, stamping reliability has been im
+
+proved, as demonstrated by lower rates of breakage and splitting.
+
+Improved cleanliness in bar products has led to longer fatigue life and opportuni
+
+ties for bearing downsizing. The expanded use of ladle treatment has also allowed
+
+the development of superior seamless pipe grades with improved toughness
+
+through closer control of composition.
+
+Eloquent use of words, proper grammar, proper structure, tone, and pre
+
+sentation usually typify professional technical writing. Professionalism
+
+shows through. These articles also tend to be shallow in the technical as
+
+pects of what they concern. This is intentional. They are writing to a broad
+
+readership. [Most of us practicing engineers can only aspire to this style of
+
+writing. It is a talent, and they have more than many of us. However, hav
+
+ing a lesser command of language should not discourage you. Remember
+
+that technical writing is predominately task oriented. You can still obtain
+
+your writing objectives with ordinary language skills by following our tech
+
+nical writing suggestions for ordinary technical professionals.]
+
+130 / Engineers’ Guide to Technical Writing
+
+A style of writing common among academicians is referenced writing.
+
+The author cites a reference every few sentences. The work of others needs
+
+to be acknowledged, but too many references can make the reader think
+
+that the writer has no personal knowledge of the subject and he or she is
+
+simply parroting others.
+
+Referenced Writing Style
+
+Attempts at lubricant pressurization have been repeatedly made. Direct supply to
+
+the tool interface was abandoned because the orifice became blocked with detri
+
+tus [57]. Milford [58] proposed a powdered metal compact die through which oil
+
+could be forced. The concept of supplying oil through radial holes in a die was
+
+first proposed by Turner [59].
+
+The author’s intentions are noble; he or she wants to be thorough. Some
+
+readers prefer this writing style. Others [moi] are distracted by frequent in
+
+terruptions to say what others have done. It is not necessary to cite every
+
+thing ever written about a subject; it is appropriate to cite papers that sup
+
+port or challenge a thesis. References to the work of others should be
+
+included in background information and in discussing results. The re
+
+mainder of the paper should be the author’s words, not the words of oth
+
+ers. In books, some authors do reference writing; others provide general
+
+references that readers can use if they want more information. Neither is
+
+wrong. They are different styles.
+
+Another often-used style of technical writing is “mathematical” writing.
+
+The object of some research is to derive a model that can be used to pre
+
+dict some phenomenon. The article consists mostly of derivations and math
+
+ematical computations. Of course, mathematics, physics, and chemistry
+
+tests and textbooks are heavy in mathematical writing, but often the in
+
+structor helps students and provides ample time to digest derivations and
+
+models. Most journal readers do not have the time to wade through math
+
+ematical writing.
+
+Mathematical Writing
+
+For the stated conditions, monotonic plastic deformation occurs and equation 8
+
+applies.
+
+H Q PR P
+
+Y(P2
+
+Q2)(1 P2)
+
+This equation can be further simplified. Assuming P
+
+H Q1
+
+A2 A1
+
+(10)
+
+A1B and R
+
+(A2
+
+1
+
+A2
+
+2 )(1
+
+P2)
+
+A2 Y
+
+The coefficients A1 and A2 can be obtained from equation 11. And so on...
+
+Writing Style / 131
+
+The writing style in the mathematical example only conveys a message
+
+to those who have the interest and time to follow the mathematics. If this
+
+is the goal, then let this be the style. If you wish to convey a message to a
+
+larger readership, limit the math and explain the thesis in words and illus
+
+trations.
+
+On the other extreme, some technical documents are written in a con
+
+versational style. They are written like you would talk to a coworker.
+
+Conversational Writing
+
+I made forty microhardness indentations in the coated surface and gave the results
+
+to John Jackson for profilometer tracing. He traced them after lunch, and I got them
+
+back. Next, I cut the bar with my abrasive cutoff saw so that I could fit the sam
+
+ples in the SEM. Pete Fong said that he would do the job as soon as a hole opens
+
+in his schedule.
+
+A conversational style is inappropriate for most technical documents. It
+
+reads awkwardly. The words used to communicate with coworkers sound
+
+fine because of accents and intonations that occur in speaking but do not
+
+read well. For example, you may say to your officemate, “I found the an
+
+swer to shaft failure on the photomics I took.” Stated properly in a report
+
+this becomes, “Metallographic examination of the shaft failure indicated
+
+that the failure was caused by low cycle bending fatigue.” It is acceptable
+
+to be somewhat informal in writing, but do not write like you talk.
+
+RULE
+
+Do not write like you talk.
+
+The final example of style is shallow writing. It is characterized by un
+
+substantiated statements and must be avoided at all times.
+
+Shallow Writing
+
+Polycrystalline zirconia is outstanding in wear applications. It is widely used in all
+
+industries. It is harder than steels and has low friction. It is also very corrosion re
+
+sistant and will not rust like metals. It is proposed that this material be used to re
+
+place all machine parts that wear out. We can set up a zirconia manufacturing
+
+operation to supply the parts.
+
+The author sounds like a used car salesperson. The use of superlatives
+
+like outstanding, widely, very highest, superior, fastest, and cheapest im
+
+mediately raise a flag. These terms cannot be substantiated. This type of
+
+writing is the extreme opposite to referenced writing. When making a state
+
+ment that something is harder or more resistant, present facts to support the
+
+claim. The style of writing in the above example will probably have low
+
+credibility.
+
+132 / Engineers’ Guide to Technical Writing
+
+Summary. Examples for eight styles of technical writing illustrate how
+
+a particular style is manifested in words. There are as many styles of tech
+
+nical writing as there are people writing. Each person writes differently.
+
+However, as shown by these examples, style has an effect on the reader.
+
+Just as you reacted differently to these examples, so will your readers. Use
+
+a style that will appeal to the intended readership.
+
+7.3 Recommended Style
+
+How should you write? What styles should you try to have? For good or
+
+bad, your style is somewhat predetermined by your persona—who you are,
+
+your personality, characteristics, likes, and dislikes. Previous sections de
+
+scribe the key elements of style: word choice, sentence and paragraph con
+
+struction, and examples of different styles in technical writing.
+
+The purpose of this section is to recommend a writing style consistent
+
+with the best practices for technical writing. [The term “best practices” is
+
+used in U.S. industry for what most people think is the way things should
+
+be done to get good results. Pardon the euphemism, but in this case it aids
+
+concision.] First the attributes of technical writing (summarized from dis
+
+cussions in Chapter 1, “What Is Technical Writing?”) are described briefly,
+
+and then suggestions are given for some of the major components of style:
+
+content, presentation, format, and language skills.
+
+Attributes of Technical Writing—Again. Technical writing style per
+
+tains to technical subjects. No need to use technical writing style in an
+
+e-mail to grandmother. Your writing should have a purpose and objective.
+
+Decide on both. What is your purpose? What is your objective? The pur
+
+pose is what you hope to achieve with your technical document. The ob
+
+jective is the overall goal of the body of work. Style should be such that
+
+one conveys information in the form of test results, statistics, budget num
+
+bers, and so forth—facts. This is a key aspect of technical writing. Saying
+
+that you improved the slitting operation is insufficient. You should state
+
+that tool life has increased from one to twelve weeks and then calculate the
+
+savings.
+
+Readers appreciate quantitative information. Technical writing is imper
+
+sonal. You should not thank Henry Washiski for his help in completing
+
+your heat treating experiments. There are special places for this type of ac
+
+knowledgment; these places are not in the text. Technical writing is con
+
+cise. Every word and sentence is scrutinized to determine if each adds value
+
+to the document. If not, delete it; be brutal. Technical writing style is di
+
+rected at a particular readership. Write to somebody. Determine who your
+
+priority readers are and write to them. Adjust the technical level to suit
+
+them. Technical writing is archival. The document should be written in such
+
+a manner for archiving and possible use five or ten years from when you
+
+wrote it. Finally, when you refer to the work of others, use appropriate at
+
+tribution.
+
+Writing Style / 133
+
+In summary, as stated in Chapter 1, “What Is Technical Writing,” tech
+
+nical writing has certain attributes, and your writing style should give your
+
+readers technical documents with these attributes.
+
+Content. The content of a technical document should warrant sharing.
+
+It should have some technical value with meaningful information. If you
+
+send out a technical document on a new piece of equipment that you saw
+
+demonstrated [but have a zero chance of buying], you may earn yourself
+
+the reputation as a purveyor of trite. Only write technical documents on
+
+matters that need to be shared, that have value in retaining, and that will
+
+produce some tangible savings or benefit to your employer. If you develop
+
+an innovative etching process for stainless steels, there may be no company
+
+value in sharing this information if your department is the only company
+
+unit that would ever use this process.
+
+A technical report on a new chemical process that you developed may be
+
+suitable for sharing with others. What kinds of information/data should be
+
+included? Include only what is necessary to meet the purpose and objec
+
+tive of the document. Do not include details of every blend alloy encoun
+
+tered. Only report on things that matter, things that would produce value if
+
+shared. If you are a researcher writing about significant work that you com
+
+pleted, give sufficient details so that the work can be reproduced by others.
+
+A researcher may challenge your thesis and want to do what you did and
+
+see if the same results are obtained.
+
+RULE
+
+Be concise, but be complete, too.
+
+Presentation (Format). Preferred formats have already been mentioned
+
+for various technical documents, but their importance is worth repeating.
+
+Format is an integral part of writing style, and Fig. 7.6 illustrates recom
+
+mended formats for informal reports, formal reports, and papers. All tech
+
+nical reports need the same elements.
+
+• Introduction
+
+• Body
+
+• Conclusion
+
+• Recommendations
+
+Informal reports can be one page followed by supporting data in graphs or
+
+photographs. Formal reports do not need to be very long, but they should
+
+have an abstract. Papers require an abstract and distinct requirements in the
+
+introduction, body, and ending matter.
+
+Most engineering projects require the preparation of a formal report, and
+
+so subsequent Chapters focus on the preparation of formal reports. At this
+
+point, the main intention is to convince you, as an author, that your report
+
+should follow the proposed formats (unless there is a mandate from some
+
+higher authority or some other compelling reason).
+
+134 / Engineers’ Guide to Technical Writing
+
+Fig. 7.6 Typical formats for various types of technical reports
+
+[One of the reasons for writing this book is my frustration with unin
+
+telligible reports from coworkers. In the 1990s, large companies contin
+
+ually experimented with various organizational schemes to improve prof
+
+its. We now have teams for everything. I work with team members from
+
+at least a dozen different divisions. Each person is performing assign
+
+ments, mostly laboratory experiments, and we report to each other in pe
+
+riodic reports. Some reports have the format of an abstract, conclusions,
+
+graphs without captions, and assorted spreadsheets. The conclusions are
+
+not really conclusions. What is written under the conclusions heading is
+
+really discussion.
+
+Another uses a different format: title, experiment name, purpose of ex
+
+periment, list of variables, and levels for this experiment, list of responses
+
+for this experiment, summary of findings, and statistical program graphic
+
+output (several pages) with no captions and only an acronym title. The text
+
+Writing Style / 135
+
+under all six headings is usually less than one-half page. Yet another per
+
+son uses another format: title, experiment name, contributors, data, ex
+
+periment, purpose, objectives, experiment design, process conditions, test
+
+results, data summary, conclusion, path forward, graphs and photographs
+
+with no captions.
+
+There is no consistency in reporting. Many documents also have little
+
+value, because they are not properly written and data are not adequately
+
+identified. Essentially, we are spending millions in research and develop
+
+ment, sometimes without adequate documentation.]
+
+Many engineers, researchers, and managers write reports without an es
+
+tablished format. There is no consistency; important details are omitted.
+
+The net effect is poor communication. The recommended formats of tech
+
+nical reports (Fig. 7.6) are proposed as an effective way to instill some qual
+
+ity control in report writing. Avoid illogical formats, tomes, micro-reports
+
+with too few words, and “theatrical reports” with overwhelming section
+
+headings (bold, 18 point, underlined, and italicized).
+
+RULE
+
+Use accepted formats for report writing.
+
+Standard formats are essential, and the format of the formal report has
+
+been accepted worldwide by the international technical community. It is
+
+even duplicated as templates in many word processing programs. You sim
+
+ply put words into the standard section heads dictated by the software. Most
+
+programs use the standard format similar to the one advocated here.
+
+Language Skills. Make every effort to follow accepted rules of language.
+
+Spelling and punctuation must be correct. Grammar should be reasonable
+
+if clear communication is the goal, but make every effort to eliminate com
+
+mon mistakes and repetitive errors in grammar. Choose words and con
+
+struct sentences so that ideas are unambiguous. Try to use the active voice,
+
+and avoid jargon or phrases that are unfamiliar or inappropriate for read
+
+ers. Write to readers at a level meant for the intended readers.
+
+Do not mix thoughts and write complex sentences. The length of para
+
+graphs should be balanced with convincing support of the topic sentence
+
+in each paragraph. Conclude sections with transitions to the next section.
+
+Make sure there is continuity of ideas and coherence throughout the text.
+
+Summary
+
+Writing style is a reflection of your personality, but technical writing re
+
+quires a style that achieves the attributes of good technical documents. Use
+
+a standard report format as a basic skeleton, and organize thoughts and in
+
+formation into a series of balanced paragraphs with clear and concise topic
+
+sentences. Do not make the reader wonder where you are going. Make the
+
+136 / Engineers’ Guide to Technical Writing
+
+content something that the readership wants to know. Make sure sentences
+
+are clear, and be extremely careful of tone. Do not let feelings or mood
+
+show through your writing. Finally, have a trusted person read your work
+
+to make sure that your content, presentation, language skills, and style meet
+
+expectations.
+
+In summary, the following concepts reflect the style requirements of good
+
+technical writing:
+
+• Use an accepted report format.
+
+• Choose concise words.
+
+• Be unbiased and maintain a neutral, objective tone.
+
+• Construct clear sentences of mixed length.
+
+• Develop a balanced flow of paragraphs with clear and concise topic
+
+sentences.
+
+• Avoid the use of unfamiliar technical words.
+
+• Avoid acronyms. Many readers may not know what they mean.
+
+• Use an impersonal style, especially for formal reports or papers.
+
+• Adopt a positive style of writing, and write in the active voice.
+
+• Avoid euphemisms and words with contemporary meanings that are
+
+different from dictionary meanings.
+
+• Write with credibility; avoid the use of superlatives like superior,
+
+fastest, and so forth that are often just unsupported exaggerations.
+
+• Avoid conversational writing in technical reports.
+
+• Adopt the concept of parallel construction when listing items or shap
+
+ing the length and content of many paragraphs
+
+• Use topic headings to help organize and prioritize the flow of para
+
+graphs.
+
+Important Terms
+
+• Tone
+
+• Passive
+
+• General to specific
+
+• Enumeration
+
+• Style
+
+• Euphemism
+
+• Superlatives
+
+• Analogy
+
+• Format
+
+• Conversational
+
+For Practice
+
+• Credibility
+
+• Coherence
+
+• Impersonal
+
+• Jargon
+
+• Word choice
+
+• Cause and effect
+
+• Active
+
+• Technobabble
+
+• Tome
+
+• Persuasive
+
+1. Define writing style and explain why it is important.
+
+2. List the personality traits that you think show in your writing. Are there
+
+any that would have a negative effect on technical writing?
+
+3. What is the difference between style and tone? Why are they important?
+
+Writing Style / 137
+
+4. Analyze the writing style in a newspaper front-page story. What tense
+
+is used?
+
+5. What is wrong with euphemisms?
+
+6. Write a procedure for changing an automobile tire. Review it for use
+
+of undesirable words (slang, euphemisms, passive words, and so forth),
+
+and correct them.
+
+7. Write a paragraph on a recent vacation. Now edit it to be more concise.
+
+8. State five negative words and five positive words.
+
+9. Write a paragraph with an angry tone. Now rewrite it so it is imper
+
+sonal and objective (no tone).
+
+10. Write a paragraph in the passive voice. Convert it to the active voice
+
+and compare the two from the readers’ viewpoint.
+
+11. What is meant by parallel construction?
+
+To Dig Deeper
+
+• D. Beer and D. McMurrey, A Guide to Writing as an Engineer, John
+
+Wiley & Sons, 1997
+
+• R.H. Fiske, Dictionary of Concise Writing, Writers Digest Books,
+
+Cincinnati, OH, 1996
+
+• D. Jones, Technical Writing Style, Allyn and Bacon, Boston, 1998
+
+• P. Ruben, Ed., Science and Technical Writing: A Manual of Style,
+
+Henry Holt and Company Inc., New York, 1992
+
+• W. Strunk, Jr. and E.B. White, The Elements of Style, 3rd ed., Allyn
+
+and Bacon, Boston, 1979
